@@ -1,0 +1,9 @@
+node_modules
+/tmp/public
+.env
+firebase
+production
+production2
+production.zip
+production2.zip
+src.zip
